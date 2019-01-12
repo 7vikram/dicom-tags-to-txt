@@ -1,0 +1,86 @@
+Specific Character Set
+Image Type
+SOP Class UID
+SOP Instance UID
+Study Date
+Series Date
+Content Date
+Study Time
+Series Time
+Content Time
+Accession Number
+Modality
+Manufacturer
+Institution Name
+Institution Address
+Referring Physician's Name
+Station Name
+Study Description
+Performing Physician's Name
+Manufacturer's Model Name
+Recommended Display Frame Rate
+Patient's Name
+Patient ID
+Patient's Birth Date
+Patient's Sex
+Patient's Size
+Patient's Weight
+Patient Comments
+Cine Rate
+Effective Duration
+Device Serial Number
+Software Version(s)
+Frame Time
+Preferred Playback Sequencing
+Sequence of Ultrasound Regions
+Region Spatial Format
+Region Data Type
+Region Flags
+Region Location Min X0
+Region Location Min Y0
+Region Location Max X1
+Region Location Max Y1
+Reference Pixel X0
+Reference Pixel Y0
+Physical Units X Direction
+Physical Units Y Direction
+Reference Pixel Physical Value X
+Reference Pixel Physical Value Y
+Physical Delta X
+Physical Delta Y
+Region Spatial Format
+Region Data Type
+Region Flags
+Region Location Min X0
+Region Location Min Y0
+Region Location Max X1
+Region Location Max Y1
+Reference Pixel X0
+Reference Pixel Y0
+Physical Units X Direction
+Physical Units Y Direction
+Reference Pixel Physical Value X
+Reference Pixel Physical Value Y
+Physical Delta X
+Physical Delta Y
+Study Instance UID
+Series Instance UID
+Study ID
+Series Number
+Instance Number
+Patient Orientation
+Laterality
+Image Comments
+Samples per Pixel
+Photometric Interpretation
+Planar Configuration
+Number of Frames
+Frame Increment Pointer
+Rows
+Columns
+Bits Allocated
+Bits Stored
+High Bit
+Pixel Representation
+Lossy Image Compression
+Pixel Data
